@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6acf50f9c401d424987e3c18a8113f26, type: 3}
+  m_Name: chengjiu
+  m_EditorClassIdentifier: 
+  chengjiulist:
+  - mingcheng: "\u6E38\u620F\u65F6\u957F1"
+    shuliang: 1
+    jiangli: 100
+    yilingqu: 0
+  - mingcheng: "\u6E38\u620F\u65F6\u957F2"
+    shuliang: 5
+    jiangli: 500
+    yilingqu: 0
+  - mingcheng: "\u6E38\u620F\u65F6\u957F3"
+    shuliang: 10
+    jiangli: 1000
+    yilingqu: 0
+  - mingcheng: "\u6E38\u620F\u65F6\u957F4"
+    shuliang: 30
+    jiangli: 3000
+    yilingqu: 0
+  - mingcheng: "\u6E38\u620F\u65F6\u957F5"
+    shuliang: 60
+    jiangli: 10000
+    yilingqu: 0
+  - mingcheng: "\u5EFA\u9020\u6570\u91CF1"
+    shuliang: 100
+    jiangli: 100
+    yilingqu: 0
+  - mingcheng: "\u5EFA\u9020\u6570\u91CF2"
+    shuliang: 500
+    jiangli: 1000
+    yilingqu: 0
+  - mingcheng: "\u5EFA\u9020\u6570\u91CF3"
+    shuliang: 1000
+    jiangli: 5000
+    yilingqu: 0
+  - mingcheng: "\u5EFA\u9020\u6570\u91CF4"
+    shuliang: 2000
+    jiangli: 10000
+    yilingqu: 0
+  - mingcheng: "\u6539\u9020\u6B21\u65701"
+    shuliang: 10
+    jiangli: 100
+    yilingqu: 0
+  - mingcheng: "\u6539\u9020\u6B21\u65702"
+    shuliang: 50
+    jiangli: 1000
+    yilingqu: 0
+  - mingcheng: "\u6539\u9020\u6B21\u65703"
+    shuliang: 100
+    jiangli: 2500
+    yilingqu: 0
+  - mingcheng: "\u6539\u9020\u6B21\u65704"
+    shuliang: 500
+    jiangli: 15000
+    yilingqu: 0

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b64e601d2b5ba947b57397bc0ff2b53, type: 3}
+  m_Name: gongjianshou
+  m_EditorClassIdentifier: 
+  Name: "\u5F13\u7BAD\u624B"
+  GongjiFanwei: 3
+  GongjiPinlv: 3
+  GongjiSudu: 5
+  Shanghai: 4
+  ChuangjianJiage: 100
+  ShengjiJiage: 100
+  shengji_fanwei: 10
+  shengji_pinlv: 10
+  shengji_sudu: 10
+  shengji_shanghai: 10
+  gaizao_fanwei: 0.1
+  gaizao_fanweiFen: 100
+  gaizao_pinlv: 0.1
+  gaizao_pinlvFen: 100
+  gaizao_sudu: 0.1
+  gaizao_suduFen: 100
+  gaizao_shanghai: 0.1
+  gaizao_shanghaiFen: 100
+  gaizao_chuangjianjiage: -1
+  gaizao_chuangjianjiageFen: 300
+  gaizao_shengjijiage: -1
+  gaizao_shengjijiageFen: 300
+  gaizao_shengji_fanwei: 1
+  gaizao_shengji_fanweiFen: 200
+  gaizao_shengji_pinlv: 1
+  gaizao_shengji_pinlvFen: 200
+  gaizao_shengji_sudu: 1
+  gaizao_shengji_suduFen: 200
+  gaizao_shengji_shanghai: 1
+  gaizao_shengji_shanghaiFen: 200

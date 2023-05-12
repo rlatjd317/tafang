@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03487195c622d00419e18d8ded1e616d, type: 3}
+  m_Name: liebiao1
+  m_EditorClassIdentifier: 
+  liebiao:
+  - {fileID: 11400000, guid: ad06d3c2920fefc4f84afe62c36c889a, type: 2}
+  - {fileID: 11400000, guid: 713cd2f53c6ec7348b9f5d5912cde108, type: 2}
+  - {fileID: 11400000, guid: ce7e0fb9f5ddc6a4d9f2e0d4586c20db, type: 2}
+  - {fileID: 11400000, guid: 195f686a2756ee744a2eb972d1614287, type: 2}
+  - {fileID: 11400000, guid: d34d999454629ba468a4c73d06df658f, type: 2}
+  - {fileID: 11400000, guid: 32829ae80f97b6b40a6a068efe74edd7, type: 2}
+  - {fileID: 11400000, guid: a071811179a27b2419005b2f690370b7, type: 2}
+  - {fileID: 11400000, guid: 75b8a521c4dbb52419e6c5a492a2624f, type: 2}
+  - {fileID: 11400000, guid: 8d28f524792047a4f9f157a16adb2b73, type: 2}
+  - {fileID: 11400000, guid: 4a2e8cec44e37054a8b20d42bc3543ad, type: 2}
